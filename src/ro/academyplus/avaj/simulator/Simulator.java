@@ -54,7 +54,11 @@ public class Simulator {
         }
         catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Malformed or corrupt scenario file");
-        } catch (Exception e) {
+        }
+        catch (NumberFormatException e){
+            System.out.println("Invalid Coordinates in file");
+        }
+        catch (Exception e) {
             e.printStackTrace();
         } finally {
             Logger.getLogger().close();
