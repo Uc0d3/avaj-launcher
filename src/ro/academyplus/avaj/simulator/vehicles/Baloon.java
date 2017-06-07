@@ -37,7 +37,7 @@ public class Baloon extends Aircraft implements Flyable {
                         Math.max(super.coordinates.getHeight() - 5, 0)
                 );
                 Logger.getLogger().log(
-                        "Baloon#" + super.name + "(" + super.id + "): Damn you rain! You messed up my baloon."
+                        "Baloon#" + super.name + "(" + super.id + "): Damn you rain! You messed up my baloony."
                 );
                 break;
             case "FOG":
