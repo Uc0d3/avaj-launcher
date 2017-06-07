@@ -1,0 +1,14 @@
+package ro.academyplus.avaj.simulator.vehicles;
+
+
+import ro.academyplus.avaj.simulator.WeatherTower;
+
+/**
+ * Created by root on 6/7/17.
+ */
+public interface Flyable {
+
+    void updateConditions();
+
+    void registerTower(WeatherTower weatherTower);
+}
