@@ -1,8 +1,7 @@
 package ro.academyplus.avaj.simulator;
 
 import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
+
 
 import ro.academyplus.avaj.simulator.vehicles.Flyable;
 /**
