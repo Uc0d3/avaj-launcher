@@ -16,7 +16,7 @@ public class AircraftFactory {
                                int height)
                                 throws Exception {
         Flyable flyable;
-        if (longitude < 0 || latitude < 0)
+        if (longitude < 0 || latitude < 0 || height < 0)
             throw new InvalidCoordException("Invalid Coordinates " + name);
         switch (type) {
             case "Baloon":
