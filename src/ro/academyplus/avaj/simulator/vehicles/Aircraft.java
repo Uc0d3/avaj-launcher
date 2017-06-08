@@ -18,6 +18,10 @@ public abstract class Aircraft {
         this.coordinates = coordinates;
     }
 
+    public long getId() {
+        return id;
+    }
+
     private long nextId() {
         return ++idCounter;
     }

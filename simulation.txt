@@ -17,7 +17,7 @@ Helicopter#H2(6): Yo John theres to much fog, can't see
 Helicopter#H3(7): Let it snow!:)).
 Baloon#B3(8): Where are you Jack? It's to foggy
 JetPlane#J2(9): Let's hope thunder is not gonna struck us
-Helicopter#H4(10): Let it snow!:)).
+Helicopter#H4(10): Suuny day for heli ride.
 Baloon#B1(1): Let's enjoy the good weather and take some pics.
 Baloon#B2(2): It's snowing. We're gonna crash.
 JetPlane#J1(3): Hello sunshine!
@@ -27,62 +27,26 @@ Helicopter#H2(6): Let it snow!:)).
 Helicopter#H3(7): Let it snow!:)).
 Baloon#B3(8): Damn you rain! You messed up my baloony.
 JetPlane#J2(9): Hello sunshine!
-Helicopter#H4(10): Let it snow!:)).
+Helicopter#H4(10): Suuny day for heli ride.
 Baloon#B1(1): Let's enjoy the good weather and take some pics.
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Winter is cumming.
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
 Helicopter#H3(7): Let it snow!:)).
 Baloon#B3(8): Where are you Jack? It's to foggy
 JetPlane#J2(9): Hello sunshine!
-Helicopter#H4(10): Let it snow!:)).
+Helicopter#H4(10): Suuny day for heli ride.
 Baloon#B1(1): Let's enjoy the good weather and take some pics.
 Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Hello sunshine!
 Helicopter#H1(5): Let it snow!:)).
-Helicopter#H2(6): Let it snow!:)).
-Helicopter#H3(7): Let it snow!:)).
-Baloon#B3(8): Damn you rain! You messed up my baloony.
-JetPlane#J2(9): Hello sunshine!
-Helicopter#H4(10): Let it snow!:)).
-Baloon#B1(1): Let's enjoy the good weather and take some pics.
-Baloon#B2(2): Let's enjoy the good weather and take some pics.
-JetPlane#J1(3): Hello sunshine!
-JetPlane#J2(4): Everything is so blurry, could it be the LSD?
-Helicopter#H1(5): Let it snow!:)).
-Helicopter#H2(6): Let it snow!:)).
-Helicopter#H3(7): Let it snow!:)).
-Baloon#B3(8): Where are you Jack? It's to foggy
-JetPlane#J2(9): Hello sunshine!
-Helicopter#H4(10): Let it snow!:)).
-Baloon#B1(1): Let's enjoy the good weather and take some pics.
-Baloon#B2(2): Let's enjoy the good weather and take some pics.
-JetPlane#J1(3): Hello sunshine!
-JetPlane#J2(4): Everything is so blurry, could it be the LSD?
-Helicopter#H1(5): Let it snow!:)).
-Helicopter#H2(6): Let it snow!:)).
-Helicopter#H3(7): Let it snow!:)).
-Baloon#B3(8): Damn you rain! You messed up my baloony.
-JetPlane#J2(9): Hello sunshine!
-Helicopter#H4(10): Fricking rain.
-Baloon#B1(1): Let's enjoy the good weather and take some pics.
-Baloon#B2(2): Let's enjoy the good weather and take some pics.
-JetPlane#J1(3): Hello sunshine!
-JetPlane#J2(4): Everything is so blurry, could it be the LSD?
-Helicopter#H1(5): Let it snow!:)).
-Helicopter#H2(6): Let it snow!:)).
-Helicopter#H3(7): Let it snow!:)).
-Baloon#B3(8): Where are you Jack? It's to foggy
-JetPlane#J2(9): Hello sunshine!
-Helicopter#H4(10): Suuny day for heli ride.
-Baloon#B1(1): Let's enjoy the good weather and take some pics.
-Baloon#B2(2): Let's enjoy the good weather and take some pics.
-JetPlane#J1(3): Hello sunshine!
-JetPlane#J2(4): Everything is so blurry, could it be the LSD?
-Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
 Helicopter#H3(7): Let it snow!:)).
 Baloon#B3(8): Damn you rain! You messed up my baloony.
@@ -93,7 +57,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Let it snow!:)).
 Baloon#B3(8): Where are you Jack? It's to foggy
 JetPlane#J2(9): Hello sunshine!
@@ -103,7 +71,69 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
+Helicopter#H3(7): Let it snow!:)).
+Baloon#B3(8): Damn you rain! You messed up my baloony.
+JetPlane#J2(9): Hello sunshine!
+Helicopter#H4(10): Suuny day for heli ride.
+Baloon#B1(1): Let's enjoy the good weather and take some pics.
+Baloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): Hello sunshine!
+JetPlane#J2(4): Everything is so blurry, could it be the LSD?
+Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
+Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
+Helicopter#H3(7): Let it snow!:)).
+Baloon#B3(8): Where are you Jack? It's to foggy
+JetPlane#J2(9): Hello sunshine!
+Helicopter#H4(10): Suuny day for heli ride.
+Baloon#B1(1): Let's enjoy the good weather and take some pics.
+Baloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): Hello sunshine!
+JetPlane#J2(4): Everything is so blurry, could it be the LSD?
+Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
+Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
+Helicopter#H3(7): Let it snow!:)).
+Baloon#B3(8): Damn you rain! You messed up my baloony.
+JetPlane#J2(9): Hello sunshine!
+Helicopter#H4(10): Suuny day for heli ride.
+Baloon#B1(1): Let's enjoy the good weather and take some pics.
+Baloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): Hello sunshine!
+JetPlane#J2(4): Everything is so blurry, could it be the LSD?
+Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
+Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
+Helicopter#H3(7): Let it snow!:)).
+Tower says: Helicopter#H3(7) landing 98 68 0
+Tower says: Helicopter#H3(7) unregistered from weather tower
+Baloon#B3(8): Where are you Jack? It's to foggy
+JetPlane#J2(9): Hello sunshine!
+Helicopter#H4(10): Suuny day for heli ride.
+Baloon#B1(1): Let's enjoy the good weather and take some pics.
+Baloon#B2(2): Let's enjoy the good weather and take some pics.
+JetPlane#J1(3): Hello sunshine!
+JetPlane#J2(4): Everything is so blurry, could it be the LSD?
+Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
+Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Suuny day for heli ride.
 Baloon#B3(8): Where are you Jack? It's to foggy
 JetPlane#J2(9): Hello sunshine!
@@ -113,7 +143,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -123,7 +157,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -133,7 +171,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -143,7 +185,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -153,7 +199,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -163,7 +213,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -173,7 +227,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -183,7 +241,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -193,7 +255,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -203,7 +269,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -213,7 +283,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -223,7 +297,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -233,7 +311,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -243,7 +325,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
@@ -253,7 +339,11 @@ Baloon#B2(2): Let's enjoy the good weather and take some pics.
 JetPlane#J1(3): Hello sunshine!
 JetPlane#J2(4): Everything is so blurry, could it be the LSD?
 Helicopter#H1(5): Let it snow!:)).
+Tower says: Helicopter#H1(5) landing 655 33 0
+Tower says: Helicopter#H1(5) unregistered from weather tower
 Helicopter#H2(6): Let it snow!:)).
+Tower says: Helicopter#H2(6) landing 23 33 0
+Tower says: Helicopter#H2(6) unregistered from weather tower
 Helicopter#H3(7): Yo John theres to much fog, can't see
 Baloon#B3(8): Let's enjoy the good weather and take some pics.
 JetPlane#J2(9): Hello sunshine!
