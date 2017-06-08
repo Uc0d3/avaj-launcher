@@ -60,10 +60,16 @@ public class Baloon extends Aircraft implements Flyable {
                         "Baloon#" + super.name + "(" + super.id + "): It's snowing. We're gonna crash."
                 );
                 break;
-            //default:
-            //throw new UnknownWeatherException("Unknown weather: " + weather);
         }
         super.coordinates = newCoordinates;
+        if (newCoordinates.getHeight() <= 0) {
+            this.weatherTower.unregister(this);
+            Logger.log("Baloon#" + super.name + "(" + super.id + ") landing "
+                    + newCoordinates.getLongitude() + " "
+                    + newCoordinates.getLatitude() + " "
+                    + newCoordinates.getHeight());
+            Logger.log("Tower says: Baloon#" + super.name + "(" + super.id + ") unregistered from weather tower");
+        }
 
     }
     public void registerTower(WeatherTower weatherTower) {

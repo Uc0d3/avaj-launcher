@@ -65,13 +65,12 @@ public class Helicopter extends Aircraft implements Flyable {
         super.coordinates = newCoordinates;
         if (newCoordinates.getHeight() <= 0) {
             this.weatherTower.unregister(this);
-            Logger.log("Tower says: Helicopter#" + super.name + "(" + super.id + ") landing "
+            Logger.log("Helicopter#" + super.name + "(" + super.id + ") landing "
                     + newCoordinates.getLongitude() + " "
                     + newCoordinates.getLatitude() + " "
                     + newCoordinates.getHeight());
             Logger.log("Tower says: Helicopter#" + super.name + "(" + super.id + ") unregistered from weather tower");
         }
-
     }
 
     public void registerTower(WeatherTower weatherTower) {

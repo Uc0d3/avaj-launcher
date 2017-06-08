@@ -9,6 +9,6 @@ import ro.academyplus.avaj.simulator.WeatherTower;
 public interface Flyable {
 
     void updateConditions();
-    long getId();
+
     void registerTower(WeatherTower weatherTower);
 }

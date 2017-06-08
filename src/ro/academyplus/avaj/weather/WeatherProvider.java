@@ -20,7 +20,7 @@ public class WeatherProvider {
         int sum;
         sum =   coordinates.getLongitude() *
                 coordinates.getLatitude() +
-                coordinates.getHeight();
+                coordinates.getHeight() + 1;
         return weather[sum % 4];
     }
 
