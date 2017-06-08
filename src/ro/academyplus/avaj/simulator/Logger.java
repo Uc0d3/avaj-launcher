@@ -22,12 +22,7 @@ public class Logger {
         }
     }
 
-    public static Logger getLogger() {
-
-        return logger;
-    }
-
-    public void log(String log) {
+    public static void log(String log) {
         try {
             bufferedWriter.write(log);
             bufferedWriter.newLine();
@@ -36,7 +31,7 @@ public class Logger {
         }
     }
 
-    public void close() {
+    public static void close() {
         try {
             bufferedWriter.close();
         } catch (IOException e) {

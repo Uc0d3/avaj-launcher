@@ -1,5 +1,7 @@
 package ro.academyplus.avaj.simulator;
 
+import ro.academyplus.avaj.exceptions.InvalidAircraftException;
+import ro.academyplus.avaj.exceptions.InvalidCoordException;
 import ro.academyplus.avaj.simulator.vehicles.AircraftFactory;
 import ro.academyplus.avaj.simulator.vehicles.Flyable;
 import sun.rmi.runtime.Log;
@@ -58,10 +60,16 @@ public class Simulator {
         catch (NumberFormatException e){
             System.out.println("Invalid Coordinates in file");
         }
+        catch (InvalidCoordException e){
+            System.out.println(e.getMessage());
+        }
+        catch (InvalidAircraftException e){
+            System.out.println(e.getMessage());
+        }
         catch (Exception e) {
             e.printStackTrace();
         } finally {
-            Logger.getLogger().close();
+            Logger.close();
         }
     }
 }

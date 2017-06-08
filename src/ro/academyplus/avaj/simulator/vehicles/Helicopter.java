@@ -27,7 +27,7 @@ public class Helicopter extends Aircraft implements Flyable {
                         super.coordinates.getLatitude() ,
                         Math.min(super.coordinates.getHeight() + 2, 100)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Helicopter#" + super.name + "(" + super.id + "): Suuny day for heli ride."
                 );
                 break;
@@ -37,7 +37,7 @@ public class Helicopter extends Aircraft implements Flyable {
                         super.coordinates.getLatitude(),
                         super.coordinates.getHeight()
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Helicopter#" + super.name + "(" + super.id + "): Fricking rain."
                 );
                 break;
@@ -47,7 +47,7 @@ public class Helicopter extends Aircraft implements Flyable {
                         super.coordinates.getLatitude(),
                         super.coordinates.getHeight()
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Helicopter#" + super.name + "(" + super.id + "): Yo John theres to much fog, can't see"
                 );
                 break;
@@ -57,7 +57,7 @@ public class Helicopter extends Aircraft implements Flyable {
                         super.coordinates.getLatitude() ,
                         Math.max(super.coordinates.getHeight() - 12, 0)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Helicopter#" + super.name + "(" + super.id + "): Let it snow!:))."
                 );
                 break;
@@ -70,7 +70,7 @@ public class Helicopter extends Aircraft implements Flyable {
     public void registerTower(WeatherTower weatherTower) {
         this.weatherTower = weatherTower;
         weatherTower.register(this);
-        Logger.getLogger().log(
+        Logger.log(
                 "Tower says: Helicopter#" + super.name + "(" + super.id + ") registered to weather tower."
         );
     }

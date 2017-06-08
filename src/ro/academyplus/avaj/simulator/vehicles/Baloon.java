@@ -26,7 +26,7 @@ public class Baloon extends Aircraft implements Flyable {
                         super.coordinates.getLatitude() ,
                         Math.min(super.coordinates.getHeight() + 4, 100)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Baloon#" + super.name + "(" + super.id + "): Let's enjoy the good weather and take some pics."
                 );
                 break;
@@ -36,7 +36,7 @@ public class Baloon extends Aircraft implements Flyable {
                         super.coordinates.getLatitude(),
                         Math.max(super.coordinates.getHeight() - 5, 0)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Baloon#" + super.name + "(" + super.id + "): Damn you rain! You messed up my baloony."
                 );
                 break;
@@ -46,7 +46,7 @@ public class Baloon extends Aircraft implements Flyable {
                         super.coordinates.getLatitude(),
                         Math.max(super.coordinates.getHeight() - 3, 0)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Baloon#" + super.name + "(" + super.id + "): Where are you Jack? It's to foggy"
                 );
                 break;
@@ -56,7 +56,7 @@ public class Baloon extends Aircraft implements Flyable {
                         super.coordinates.getLatitude() ,
                         Math.max(super.coordinates.getHeight() - 15, 0)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "Baloon#" + super.name + "(" + super.id + "): It's snowing. We're gonna crash."
                 );
                 break;
@@ -69,7 +69,7 @@ public class Baloon extends Aircraft implements Flyable {
     public void registerTower(WeatherTower weatherTower) {
         this.weatherTower = weatherTower;
         weatherTower.register(this);
-        Logger.getLogger().log(
+        Logger.log(
                 "Tower says: Baloon#" + super.name + "(" + super.id + ") registered to weather tower."
         );
 

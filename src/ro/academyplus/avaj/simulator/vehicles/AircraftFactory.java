@@ -1,5 +1,7 @@
 package ro.academyplus.avaj.simulator.vehicles;
 
+import ro.academyplus.avaj.exceptions.InvalidAircraftException;
+import ro.academyplus.avaj.exceptions.InvalidCoordException;
 import ro.academyplus.avaj.weather.Coordinates;
 
 /**
@@ -14,6 +16,8 @@ public class AircraftFactory {
                                int height)
                                 throws Exception {
         Flyable flyable;
+        if (longitude < 0 || latitude < 0)
+            throw new InvalidCoordException("Invalid Coordinates " + name);
         switch (type) {
             case "Baloon":
                 flyable = new Baloon(name, new Coordinates(longitude, latitude, height));
@@ -28,7 +32,7 @@ public class AircraftFactory {
                 flyable = null;
         }
         if (flyable == null)
-            throw new Exception("Unknown aircraft type: " + type);
+            throw new InvalidAircraftException("Unknown aircraft type: " + type);
         return flyable;
 
     }

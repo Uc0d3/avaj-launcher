@@ -26,7 +26,7 @@ public class JetPlane extends Aircraft implements Flyable {
                         super.coordinates.getLatitude() + 10,
                         Math.min(super.coordinates.getHeight() + 2, 100)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                       "JetPlane#" + super.name + "(" + super.id + "): Hello sunshine!"
                 );
                 break;
@@ -36,7 +36,7 @@ public class JetPlane extends Aircraft implements Flyable {
                         super.coordinates.getLatitude(),
                         super.coordinates.getHeight()
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "JetPlane#" + super.name + "(" + super.id + "): Let's hope thunder is not gonna struck us"
                 );
                 break;
@@ -46,7 +46,7 @@ public class JetPlane extends Aircraft implements Flyable {
                         super.coordinates.getLatitude() + 1,
                         super.coordinates.getHeight()
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "JetPlane#" + super.name + "(" + super.id + "): Everything is so blurry, could it be the LSD?"
                  );
                 break;
@@ -56,7 +56,7 @@ public class JetPlane extends Aircraft implements Flyable {
                         super.coordinates.getLatitude() ,
                         Math.max(super.coordinates.getHeight() - 7  , 0)
                 );
-                Logger.getLogger().log(
+                Logger.log(
                         "JetPlane#" + super.name + "(" + super.id + "): Winter is cumming."
                 );
                 break;
@@ -69,7 +69,7 @@ public class JetPlane extends Aircraft implements Flyable {
     public void registerTower(WeatherTower weatherTower) {
         this.weatherTower = weatherTower;
         weatherTower.register(this);
-        Logger.getLogger().log(
+        Logger.log(
                 "Tower says: JetPlane#" + super.name + "(" + super.id + ") registered to weather tower."
         );
 
